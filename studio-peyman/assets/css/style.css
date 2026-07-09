@@ -127,6 +127,10 @@ nav {
   gap: 15px;
 }
 
+.nav_items h1{
+  color: var(--l-text-color);
+}
+
 .nav_items h1 span {
   color: var(--secondary-color);
 }
